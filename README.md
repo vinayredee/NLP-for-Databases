@@ -50,8 +50,8 @@ semantic-mongodb-search/
 
 ### 1. Clone the repository
 ```bash
-git clone <your-repo-url>
-cd semantic-mongodb-search
+git clone https://github.com/vinayredee/NLP-for-Databases.git
+cd NLP-for-Databases
 ```
 
 ### 2. Setup Backend
